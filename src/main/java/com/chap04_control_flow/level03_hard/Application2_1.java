@@ -2,7 +2,7 @@ package com.chap04_control_flow.level03_hard;
 
 import java.util.Scanner;
 
-public class Applicaton2_1 {
+public class Application2_1 {
     public static void main(String[] args) {
         /* 2보다 큰 정수를 하나 입력 받아 그 수가 소수인지 아닌지를 판별해서 출력하세요
          * 소수인 경우 "소수다." 출력, 소수가 아닌 경우 "소수가 아니다." 출력
